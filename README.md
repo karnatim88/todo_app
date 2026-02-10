@@ -10,7 +10,7 @@ Users can:
 This makes the todo list more useful for task planning and time management.
 
 Relevant code:
- `main.jac`
+`main.jac`
   - `enum Priority`
   - `def suggest_priority(...)`
   - `node Todo`
